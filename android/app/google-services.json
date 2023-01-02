@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968376652511",
+    "project_id": "designcode-55fae",
+    "storage_bucket": "designcode-55fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968376652511:android:df3425c023a7d952bdcf6a",
+        "android_client_info": {
+          "package_name": "com.example.tutorial1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968376652511-afc8cgohb1fgqb4o4sfhv0shkptaqa1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-gmGUYgbmI6JWoaNtP3nT1TnuXjDlS04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968376652511-afc8cgohb1fgqb4o4sfhv0shkptaqa1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
